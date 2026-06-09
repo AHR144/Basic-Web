@@ -1,0 +1,9 @@
+#box1{
+    width: 200PX;
+    height: 100PX;
+    margin: 25PX;
+    padding: 25PX;
+    display: inline-block;
+    background-color: rgba(255, 0, 0, 0.5);
+
+}
